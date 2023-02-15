@@ -1,16 +1,4 @@
-## Metaville - A Community Connect for you!
 
-### Description
-
-MetaVille is a mobile application that helps in bringing people of a residential society together and also in managing the community very conveniently and efficiently. 
-
-### Why MetaVille?
-
-MetaVille will help you in managing societies with just a few clicks. For example, if you want to talk to all the people in a gated community regarding COVID - 19 Safety measurements, then you can just click on creating events, and discuss whether a meeting is necessary or not through polls, and have a meeting with the other members, by just sitting at your home!
-
-Similarly, it can be used to check your membership status in gyms, swimming pools, clubs etc. It can also be used in managing visitors, which will help in monitoring who enters the gated community.
-
-So, it will provide you a better experience of living in a community.
 
 ### Features
 
