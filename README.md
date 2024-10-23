@@ -29,7 +29,7 @@
 
 ### Building the Code
 
-1. Clone the repository using HTTP : git clone https://github.com/SilentCruzer/MetaVille.git
+1. Clone the repository 
 2. Open your code editor (VS Code, Android Studio etc)
 3. Click on 'Open an Existing Project'
 4. Browse to the directory where you cloned the repo and click OK
